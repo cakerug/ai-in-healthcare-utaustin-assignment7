@@ -27,4 +27,4 @@ uv run .\specialists.py --llm openai # hierarchical multi-agent pattern
 
 We provide the `results/` that were used in the paper.
 
-We also include a scratch.ipynb which displays results.
+We also include a results_analysis.ipynb which displays results.
