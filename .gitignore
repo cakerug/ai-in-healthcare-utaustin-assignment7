@@ -1,0 +1,9 @@
+.venv
+.env
+.langchain.db
+
+dataset/original
+# results  # i'm scared so i upload these. hopefully it's fine
+log
+
+__pycache__
